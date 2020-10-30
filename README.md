@@ -62,7 +62,7 @@ All these samples are deployed on Microsoft Azure and you can try it yourself by
 [Employee survey / Polling bot](Cross%20Vertical/PollingBot/Manifest/Polling%20App%20Manifest.zip)<br>
 [Inventory Bot](Manufacturing/InventoryBot/Manifest/Inventory%20App%20Manifest.zip)<br>
 [Employee Leave](Professional%20Services/LeaveBot/Manifest/Leave%20App%20Manifest.zip)<br>
-[Company Communicator](Cross%20Vertical/CompanyCommunicator/Manifest/Company%20Communicator%20App%20Manifest.zip)
+[Company Communicator](Cross%20Vertical/CompanyCommunicator/Manifest/Company%20Communicator%20App%20Manifest.zip) - Please try [Company Communicator App Template](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates#company-communicator).
 <br>
 # Contributing
 
